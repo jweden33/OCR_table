@@ -1,0 +1,15 @@
+flask
+opencv-python
+beautifulsoup4
+rapid_table_det
+lineless_table_rec
+wired_table_rec
+table_cls
+requests
+pdf2image
+uuid
+tempfile
+logging
+json
+opencv-python-headless
+
